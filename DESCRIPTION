@@ -1,0 +1,22 @@
+Package: golex
+Title: The golem project
+Version: 0.0.0.9000
+Authors@R: 
+    person("Vladimir", "Emelchenkov", , "emelchenkov@gmail.com", role = c("cre", "aut"))
+Description: Test application built on shiny-golem framework. Not usefull.
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.2),
+    golem (>= 0.4.1),
+    shiny (>= 1.8.0)
+Suggests: 
+    knitr,
+    rmarkdown,
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+Language: en-US
+LazyData: true
+RoxygenNote: 7.2.3
+VignetteBuilder: knitr
