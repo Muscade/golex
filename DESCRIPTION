@@ -5,6 +5,8 @@ Authors@R:
     person("Vladimir", "Emelchenkov", , "emelchenkov@gmail.com", role = c("cre", "aut"))
 Description: Test application built on shiny-golem framework. Not usefull.
 License: MIT + file LICENSE
+URL: https://github.com/Muscade/golex
+BugReports: https://github.com/Muscade/golex/issues
 Imports: 
     config (>= 0.3.2),
     golem (>= 0.4.1),
@@ -21,5 +23,3 @@ Encoding: UTF-8
 Language: en-US
 LazyData: true
 RoxygenNote: 7.2.3
-URL: https://github.com/Muscade/golex
-BugReports: https://github.com/Muscade/golex/issues
